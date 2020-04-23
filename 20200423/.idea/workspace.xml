@@ -22,6 +22,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RunManager">
     <configuration name="Test0423" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -51,6 +52,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="1053" y="203" key="FileChooserDialogImpl" timestamp="1587650051285">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1053" y="203" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1587650051285" />
     <state width="914" height="279" key="GridCell.Tab.0.bottom" timestamp="1587648533769">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -67,9 +72,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="914" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587648533769" />
-    <state x="1132" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1587637474531">
+    <state x="776" y="59" width="994" height="774" key="SettingsEditor" timestamp="1587650083354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1132" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587637474531" />
+    <state x="776" y="59" width="994" height="774" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587650083354" />
+    <state x="1132" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1587649232884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1132" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587649232884" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587649463203">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587649463203" />
   </component>
 </project>
